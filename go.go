@@ -30,7 +30,7 @@ func main2(){
 	fmt.Print(a,b,c)
 }
 
-func main(){
+func main3(){
 	const identifier string = "abc"
 	const LENGTH int = 10
 	const WIDTH int = 5
@@ -41,4 +41,9 @@ func main(){
 	fmt.Printf("面积为:%d",area)
 	println()
 	println(a,b,c)
+}
+
+
+func main(){
+	
 }
